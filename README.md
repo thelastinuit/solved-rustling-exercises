@@ -1,2 +1,3 @@
-# solved-rustling-exercises
-Rustling exercises solutions
+# Rustling Exercise Solutions
+
+Rustling exercise solutions
